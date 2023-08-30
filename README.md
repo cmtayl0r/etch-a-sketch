@@ -1,6 +1,6 @@
 # ✍️ etch-a-sketch
 
-Basic JavaScript Game based on [the classic mechanical toy](https://en.wikipedia.org/wiki/Etch_A_Sketch).
+Basic JavaScript interactive demo based on [the classic mechanical toy](https://en.wikipedia.org/wiki/Etch_A_Sketch).
 
 ↗️ View live demo
 
